@@ -1,4 +1,4 @@
-﻿# Ecommerce-ProductService
+# Ecommerce-ProductService
 
 Product catalog, inventory, Elasticsearch, PostgreSQL
 
